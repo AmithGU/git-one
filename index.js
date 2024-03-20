@@ -1,3 +1,3 @@
 console.log('helo worldo')
-const data=[{name:"amith"},{name:"amruth"}]
+const data=[{author:"amith",admin:"amruth"}]
 console.log(data);
